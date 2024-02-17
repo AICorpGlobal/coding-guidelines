@@ -1,4 +1,4 @@
-# coding-guidelines
+# coding-guidelines for node-js
 Of course! Let's refine the guidelines to include line breaks and brace style details:
 
 1. **Project Structure:**
