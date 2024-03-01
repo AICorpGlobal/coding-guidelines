@@ -16,7 +16,7 @@ Of course! Let's refine the guidelines to include line breaks and brace style de
 
 4. **Line Breaks:**
    - Limit lines to a reasonable length (usually 80-120 characters) for readability.
-   - Break long lines at logical points, such as before operators or after commas.
+   - Break long lines at logical points, such as before operators, returns, scope blocks or after commas.
 
 5. **Brace Style:**
    - Use either the "Allman" or "K&R" style for brace placement consistently throughout the codebase.
